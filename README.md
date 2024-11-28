@@ -92,7 +92,7 @@ Watch how the game works in the demo videos provided in the `Demo Videos` folder
    [Let's eat some bots!!.mp4](./Demo%20Videos/Let's%20eat%20some%20bots!!.mp4)  
    Highlights gameplay involving bot interactions.
 
-### 📞 Contact
+## 📞 Contact
 If you have any questions, feedback, or suggestions regarding this project, feel free to reach out:
 
 - **Name**: Mohammadamin Lari  
