@@ -36,8 +36,14 @@ This repository contains the reproduction of the **Slither.IO** game interface f
 ---
 
 ### 3. **Required Fonts**
-   - Includes fonts used in the game interface to provide the required aesthetic and design consistency.
+The fonts needed for the game's interface are located in the `Required Fonts` folder. To ensure proper styling:
 
+1. Download all font files from the folder:
+2. Install them on your operating system:
+   - **Windows**: Right-click on the font file and select **Install**.
+   - **Mac**: Double-click the font file and click **Install Font**.
+   - **Linux**: Copy the font files to `~/.fonts` or `/usr/share/fonts`.
+---
 ## 🎮 Features
 
 - **Smooth Gameplay Mechanics**: Reproduces the movement and collision detection of Slither.IO.
@@ -67,3 +73,56 @@ This repository contains the reproduction of the **Slither.IO** game interface f
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/Reproduction-of-Slither.IO-Game.git
+
+2. Open the project in your IDE.
+3. Set up the JavaFX SDK path in your IDE.
+4. Run the Main.java file to start the game.
+
+---
+
+### 📽️ Demo Videos
+
+Watch how the game works in the demo videos provided in the `Demo Videos` folder. Each video showcases a specific feature of the game:
+
+1. **An Introduction to the Game Scene**  
+   [An introduction to game scene.mp4](./Demo%20Videos/An%20introduction%20to%20game%20scene.mp4)  
+   Overview of the initial game interface and controls.
+
+2. **Back and Quit Buttons**  
+   [Back button and quit button.mp4](./Demo%20Videos/Back%20button%20and%20quit%20button.mp4)  
+   Demonstrates the functionality of navigation and quitting the game.
+
+3. **Snake and Bot Collisions**  
+   [Collision of snake and bots(intro).mp4](./Demo%20Videos/Collision%20of%20snake%20and%20bots(intro).mp4)  
+   Showcases how collisions between the snake and bots are handled.
+
+4. **Game Over!**  
+   [Game Over!!.mp4](./Demo%20Videos/Game%20Over!!.mp4)  
+   Example of the game-ending interface.
+
+5. **Intro Scene**  
+   [Intro.mp4](./Demo%20Videos/Intro.mp4)  
+   Displays the game’s intro screen.
+
+6. **Let’s Eat Some Bots!**  
+   [Let's eat some bots!!.mp4](./Demo%20Videos/Let's%20eat%20some%20bots!!.mp4)  
+   Highlights gameplay involving bot interactions.
+
+---
+
+---
+
+### 📞 Contact
+
+If you have any questions, feedback, or suggestions regarding this project, feel free to reach out:
+
+- **Name**: Mohammadamin Lari  
+- **Email**: [mohammadamin.lari@gmail.com](mailto:mohammadamin.lari@gmail.com)  
+- **GitHub**: [AminLari](https://github.com/aminlari)
+
+You are welcome to create issues or pull requests to improve the project. Contributions are highly appreciated! 
+
+---
+
+
+
