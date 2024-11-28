@@ -6,9 +6,6 @@ This repository contains the reproduction of the **Slither.IO** game interface f
 ---
 
 ## 📂 Repository Structure
-
----
-
 ### 1. **Source Codes**
    - The core JavaFX source code for the Slither.IO game implementation.
    - Key Files and Directories:
@@ -21,8 +18,6 @@ This repository contains the reproduction of the **Slither.IO** game interface f
      - `Res/`: Folder containing assets like soundtracks.
      - `main.css`: CSS for styling the interface.
 
----
-
 ### 2. **Demo Videos**
    - Contains video demonstrations showcasing the features and gameplay of the Slither.IO reproduction.
    - Files:
@@ -32,8 +27,6 @@ This repository contains the reproduction of the **Slither.IO** game interface f
      - `Game Over!!.mp4`
      - `Intro.mp4`
      - `Let's eat some bots!!.mp4`
-
----
 
 ### 3. **Required Fonts**
 The fonts needed for the game's interface are located in the `Required Fonts` folder. To ensure proper styling:
