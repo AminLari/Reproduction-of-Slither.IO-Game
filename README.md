@@ -3,8 +3,6 @@
 This repository contains the reproduction of the **Slither.IO** game interface from scratch using the **JavaFX** package in Java. The project demonstrates gameplay mechanics, interface design, and programming techniques for recreating the classic multiplayer game.
 <p> <img src="https://github.com/user-attachments/assets/0e09c46e-17cb-4ccf-b66e-268685047b56" width="1000"> </p> 
 
----
-
 ## 📂 Repository Structure
 ### 1. **Source Codes**
    - The core JavaFX source code for the Slither.IO game implementation.
@@ -36,7 +34,7 @@ The fonts needed for the game's interface are located in the `Required Fonts` fo
    - **Windows**: Right-click on the font file and select **Install**.
    - **Mac**: Double-click the font file and click **Install Font**.
    - **Linux**: Copy the font files to `~/.fonts` or `/usr/share/fonts`.
----
+
 ## 🎮 Features
 
 - **Smooth Gameplay Mechanics**: Reproduces the movement and collision detection of Slither.IO.
@@ -45,16 +43,12 @@ The fonts needed for the game's interface are located in the `Required Fonts` fo
 - **Game Over Screen**: Displays when the player loses.
 - **Soundtrack Support**: Includes the background soundtracks used during gameplay.
 
----
-
 ## 🛠️ Technologies Used
 
 - **JavaFX**: For creating the graphical user interface (GUI).
 - **Java**: For implementing game logic and mechanics.
 - **FXML**: For designing and organizing layouts.
 - **CSS**: For styling the game interface.
-
----
 
 ## 🚀 Getting Started
 
@@ -70,8 +64,6 @@ The fonts needed for the game's interface are located in the `Required Fonts` fo
 2. Open the project in your IDE.
 3. Set up the JavaFX SDK path in your IDE.
 4. Run the Main.java file to start the game.
-
----
 
 ### 📽️ Demo Videos
 
@@ -101,12 +93,7 @@ Watch how the game works in the demo videos provided in the `Demo Videos` folder
    [Let's eat some bots!!.mp4](./Demo%20Videos/Let's%20eat%20some%20bots!!.mp4)  
    Highlights gameplay involving bot interactions.
 
----
-
----
-
 ### 📞 Contact
-
 If you have any questions, feedback, or suggestions regarding this project, feel free to reach out:
 
 - **Name**: Mohammadamin Lari  
@@ -114,8 +101,4 @@ If you have any questions, feedback, or suggestions regarding this project, feel
 - **GitHub**: [AminLari](https://github.com/aminlari)
 
 You are welcome to create issues or pull requests to improve the project. Contributions are highly appreciated! 
-
----
-
-
 
