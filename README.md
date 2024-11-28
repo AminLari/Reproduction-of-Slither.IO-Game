@@ -65,8 +65,7 @@ The fonts needed for the game's interface are located in the `Required Fonts` fo
 3. Set up the JavaFX SDK path in your IDE.
 4. Run the Main.java file to start the game.
 
-### 📽️ Results
-
+## 📽️ Results
 Watch how the game works in the demo videos provided in the `Demo Videos` folder. Each video showcases a specific feature of the game:
 
 1. **An Introduction to the Game Scene**  
