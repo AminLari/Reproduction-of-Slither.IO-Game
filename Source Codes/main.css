@@ -1,0 +1,156 @@
+#MainPane
+{
+    -fx-background-image: url("Res/image2.jpg");
+    -fx-border-width: 5;
+    -fx-border-radius: 3px;
+    -fx-border-color: rgba(255,255,255,0.8);
+}
+#gameScene
+{
+    -fx-background-image: url("Res/image5.jpg");
+}
+#start
+{
+    -fx-background-color: rgba(16,145,203,0.0);
+    -fx-background-radius: 30;
+    -fx-text-fill: rgba(254,255,250,0.7);
+    -fx-font-size: 57px;
+    -fx-font-family: "Earwig Factory";
+    -fx-font-weight: bold;
+}
+#start:hover
+{
+    -fx-text-fill: rgba(255,255,255,1);
+}
+#settings
+{
+    -fx-background-color: rgba(310,580,520,0.3);
+    -fx-background-radius: 30;
+    -fx-text-fill: lightblue;
+    -fx-font-family: "Blobfont G98";
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+}
+#settings:hover
+{
+    -fx-background-color: rgba(198,235,244,0.8);
+    -fx-text-fill: rgba(11,37,50,1);
+}
+
+#text
+{
+    -fx-font-weight: bold;
+    -fx-font-size: 30px;
+    -fx-font-family: "Benjamin Franklin";
+    -fx-fill: linear-gradient(crimson,yellow);
+    -fx-effect: innershadow(gaussian,rgba(255,255,255,4),2,0,0.0,2);
+}
+
+#changeskin
+{
+
+    -fx-background-color: rgba(310,580,520,0.3);
+    -fx-background-radius: 40px;
+    -fx-text-fill: lightblue;
+    -fx-font-family: "Blobfont G98";
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+}
+#changeskin:hover
+{
+    -fx-background-color: rgba(198,235,244,0.8);
+    -fx-text-fill: rgba(11,37,50,1);
+}
+#soundSelector
+{
+    -fx-background-radius: 40px;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-background-color: WHITE;
+    -fx-font-family: "Rockwell";
+}
+
+#color
+{
+    -fx-background-radius: 40px;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-background-color: WHITE;
+    -fx-font-family: "Rockwell";
+
+}
+
+#backButton
+{
+    -fx-background-radius: 40px;
+    -fx-font-weight: bold;
+    -fx-background-color:rgba(255,255,255,0.5);
+    -fx-font-family: "Rockwell";
+}
+#backButton:hover
+{
+    -fx-background-color:rgba(255,255,255,0.95);
+}
+
+#settingPane
+{
+    -fx-background-image: url("Res/Untitled.jpg");
+    -fx-border-width: 10;
+    -fx-border-radius: 3px;
+    -fx-border-color: rgba(255,255,255,0.8);
+}
+
+#changePane
+{
+    -fx-background-image: url("Res/Untitled.jpg");
+    -fx-border-width: 10;
+    -fx-border-radius: 3px;
+    -fx-border-color: rgba(255,255,255,0.8);
+}
+
+#backskin
+{
+    -fx-background-radius: 40px;
+    -fx-font-weight: bold;
+    -fx-background-color:rgba(255,255,255,0.5);
+    -fx-font-family: "Rockwell";
+}
+#backskin:hover
+{
+    -fx-background-color:rgba(255,255,255,0.95);
+}
+
+#quitButton
+{
+    -fx-background-radius: 40px;
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+    -fx-background-color:rgba(255,255,255,0.5);
+    -fx-font-family: "Rockwell";
+}
+
+#quitButton:hover
+{
+    -fx-background-color:rgba(255,255,255,0.95);
+}
+
+#BacktomenuButton
+{
+    -fx-background-radius: 40px;
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+    -fx-background-color:rgba(255,255,255,0.5);
+    -fx-font-family: "Rockwell";
+}
+
+#BacktomenuButton:hover
+{
+    -fx-background-color:rgba(255,255,255,0.95);
+}
+
+#gameoverLabel
+{
+    -fx-font-size: 90px;
+    -fx-font-family: "AR CARTER";
+    -fx-effect: innershadow(gaussian,rgba(255,255,255,4),2,0,0.0,2);
+}
