@@ -59,7 +59,7 @@ The fonts needed for the game's interface are located in the `Required Fonts` fo
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Slither.IO-Game.git
+   git clone https://github.com/AminLari/Slither.IO-Game.git
 
 2. Open the project in your IDE.
 3. Set up the JavaFX SDK path in your IDE.
