@@ -1,4 +1,4 @@
-# Reproduction of Slither.IO Game
+# Slither.IO Game
 
 This repository contains the reproduction of the **Slither.IO** game interface from scratch using the **JavaFX** package in Java. The project demonstrates gameplay mechanics, interface design, and programming techniques for recreating the classic multiplayer game.
 <p> <img src="https://github.com/user-attachments/assets/0e09c46e-17cb-4ccf-b66e-268685047b56" width="1000"> </p> 
